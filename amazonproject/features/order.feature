@@ -1,4 +1,4 @@
-Feature: order
+Feature: Order a product
 	As a user I want to order a product
 
 Scenario: As a user I want to add a product to the cart
